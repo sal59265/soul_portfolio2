@@ -1,26 +1,26 @@
-import React from 'react'
+// import React from 'react'
 
-const Services = () => {
-  return (
-    <section id="services">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+// const Services = () => {
+//   return (
+//     <section id="services">
+//       <h5>What I Offer</h5>
+//       <h2>Services</h2>
 
-      <div className='container services__container'>
-        <article className='service'>
-          <div className='service__head'>
-            <h3>UI/UX Design</h3>
-          </div>
+//       <div className='container services__container'>
+//         <article className='service'>
+//           <div className='service__head'>
+//             <h3>UI/UX Design</h3>
+//           </div>
 
-          <ul className='service__list'>
-            <li>
-              
-            </li>
-          </ul>
-        </article>
-      </div>
-    </section >
-  )
-}
+//           <ul className='service__list'>
+//             <li>
 
-export default Services
+//             </li>
+//           </ul>
+//         </article>
+//       </div>
+//     </section >
+//   )
+// }
+
+// export default Services
