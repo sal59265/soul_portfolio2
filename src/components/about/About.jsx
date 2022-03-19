@@ -26,11 +26,14 @@ const About = () => {
             <article className='about__card'>
               <AiFillFolderOpen className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>Many Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem et dicta adipisci deserunt, libero similique aspernatur? Exercitationem at, dolorum quasi iste numquam similique eius ullam error accusamus natus in alias.
+          A full-stack software engineer with a background in biological and dental science. I am a logical
+thinker and have a passion for learning new languages to implement into current and future
+projects. I pride myself on my dedication to completing my assigned projects while allowing for
+growth and change management.
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
