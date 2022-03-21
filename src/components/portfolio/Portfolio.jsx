@@ -1,6 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
+import IMG2 from '../../assets/portfolio2.jpg'
 
 const Portfolio = () => {
   const data = [
@@ -10,6 +11,13 @@ const Portfolio = () => {
       title: 'Type Speed Test',
       github: 'https://github.com/sal59265/type_speed_test',
       demo: 'https://rapid-type-test.surge.sh/'
+    },
+    {
+      id: 2,
+      image: IMG2,
+      title: 'SnowBook',
+      github: 'https://github.com/sal59265/snowbook',
+      demo: 'https://snowbook.herokuapp.com/'
     }
   ]
   return (
