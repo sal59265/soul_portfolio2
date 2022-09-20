@@ -13,8 +13,11 @@ const Header = () => {
         <CTA />
         <HeaderSocials />
 
-        <div className="me">
+        <div className='container_header__aboutme'>
+          <h5 className='text-left'>A full-stack software engineer with a passion to always grow as a person in a working and social environment and driven by a passion for programming. I am a logical thinker who likes to challenge myself with learning new algorithms, frameworks, and languages, and I enjoy applying new skills to current and future projects to improve efficiency and effectiveness of the deliverable.</h5>
+          <div className="me">
           <img src={ME} alt='me'/>
+          </div>
         </div>
 
         <a href='#contact' className='scroll__down'>Scroll Down</a>

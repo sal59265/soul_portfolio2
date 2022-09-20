@@ -30,10 +30,10 @@ const About = () => {
             </article>
           </div>
           <p>
-          A full-stack software engineer with a background in biological and dental science. I am a logical
-thinker and have a passion for learning new languages to implement into current and future
-projects. I pride myself on my dedication to completing my assigned projects while allowing for
-growth and change management.
+          A full-stack software engineer with a background in biology and dentistry. 
+          I am a logical thinker who likes to challenge myself with learning new algorithms, frameworks, and languages. 
+          I enjoy applying new skills to current and future projects to improve efficiency and effectiveness of the deliverable.
+
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>

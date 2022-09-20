@@ -10,7 +10,7 @@ const Portfolio = () => {
       image: IMG1,
       title: 'Type Speed Test',
       github: 'https://github.com/sal59265/type_speed_test',
-      demo: 'https://rapid-type-test.surge.sh/'
+      demo: 'https://type-speed-test-sl.netlify.app/'
     },
     {
       id: 2,
