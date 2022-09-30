@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
+import IMG3 from '../../assets/portfolio3.jpg'
 
 const Portfolio = () => {
   const data = [
@@ -18,6 +19,13 @@ const Portfolio = () => {
       title: 'SnowBook',
       github: 'https://github.com/sal59265/snowbook',
       demo: 'https://snowbook.herokuapp.com/'
+    },
+    {
+      id: 3,
+      image: IMG3,
+      title: 'Connecting Friends',
+      github: 'https://github.com/sal59265/connectingfriends',
+      demo: 'https://connectingfriends.netlify.app/'
     }
   ]
   return (

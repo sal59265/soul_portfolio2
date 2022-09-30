@@ -28,6 +28,13 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
+              <h4>Material-UI</h4>
+              <small className='test-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
               <h4>REACT</h4>
               <small className='test-light'>Experienced</small>
               </div>
@@ -43,6 +50,13 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
               <h4>VUE</h4>
+              <small className='test-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Next.js</h4>
               <small className='test-light'>Experienced</small>
               </div>
             </article>
@@ -97,6 +111,20 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
               <h4>Jesting</h4>
+              <small className='test-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Sanity</h4>
+              <small className='test-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Django</h4>
               <small className='test-light'>Intermediate</small>
               </div>
             </article>
