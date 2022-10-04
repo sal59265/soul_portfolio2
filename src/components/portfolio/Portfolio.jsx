@@ -8,25 +8,25 @@ const Portfolio = () => {
   const data = [
     {
       id: 1,
-      image: IMG1,
-      title: 'Type Speed Test',
-      github: 'https://github.com/sal59265/type_speed_test',
-      demo: 'https://type-speed-test-sl.netlify.app/'
-    },
-    {
-      id: 2,
       image: IMG2,
       title: 'SnowBook',
       github: 'https://github.com/sal59265/snowbook',
       demo: 'https://snowbook.herokuapp.com/'
     },
     {
-      id: 3,
+      id: 2,
       image: IMG3,
       title: 'Connecting Friends',
       github: 'https://github.com/sal59265/connectingfriends',
       demo: 'https://connectingfriends.netlify.app/'
-    }
+    },
+    {
+      id: 3,
+      image: IMG1,
+      title: 'Type Speed Test',
+      github: 'https://github.com/sal59265/type_speed_test',
+      demo: 'https://type-speed-test-sl.netlify.app/'
+    },
   ]
   return (
     <section id = "portfolio">
